@@ -1,4 +1,6 @@
-### Bem vindo!
+<!-- ### Bem vindo! -->
+
+<img src="https://user-images.githubusercontent.com/67443871/198157154-cd6e64ae-d048-4251-b96e-66dc4cca6dde.png" width="200px" />
 <br>
 
 <div>
