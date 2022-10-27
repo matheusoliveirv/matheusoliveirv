@@ -1,12 +1,13 @@
 <!-- ### Bem vindo! -->
-
-<img src="https://user-images.githubusercontent.com/67443871/198161073-1f948201-0d14-4b96-ad65-74635025d601.png" width="420px" />
+<div>
+  <img src="https://user-images.githubusercontent.com/67443871/198161073-1f948201-0d14-4b96-ad65-74635025d601.png" width="420px" />
+</div>
 <br>
 
 <div>
   <a href="https://github.com/matheusoliveirv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusoliveirv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveirv&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusoliveirv&show_icons=true&hide_border=true&bg_color=0d1117&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveirv&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=dark"/>
 </div>
 
 <!-- PART 2 -->
