@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div>
   <img src="https://user-images.githubusercontent.com/67443871/198381011-5ff455f6-9e55-4926-9957-37fc8ba596e7.png" width="130px" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=C8D2DCFF&vCenter=false&multiline=true&width=300&height=100&lines=const+App+%3D+()+%3D%3E+%7B;return+(+Bem+vindo!)+%7D;export+default+App"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=C8D2DCFF&vCenter=false&multiline=true&width=300&height=100&lines=const+App+%3D+()+%3D%3E+%7B;return+(+Bem+vindo!+)+%7D;export+default+App"
 </div>
 
 <br>
