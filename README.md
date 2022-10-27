@@ -1,6 +1,12 @@
 <!-- ### Bem vindo! -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=C8D2DCFF&vCenter=true&multiline=true&width=300&height=100&lines=const+App+%3D+()+%3D%3E+%7B;return+(+Bem+vindo!)+%7D;export+default+App)](https://git.io/typing-svg)
+ 
+
 <div>
   <img src="https://user-images.githubusercontent.com/67443871/198161073-1f948201-0d14-4b96-ad65-74635025d601.png" width="420px" />
+</div>
 </div>
 <br>
 
