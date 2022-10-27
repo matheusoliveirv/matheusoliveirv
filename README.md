@@ -1,6 +1,6 @@
 <!-- ### Bem vindo! -->
 
-<img src="https://user-images.githubusercontent.com/67443871/198157154-cd6e64ae-d048-4251-b96e-66dc4cca6dde.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/67443871/198161073-1f948201-0d14-4b96-ad65-74635025d601.png" width="420px" />
 <br>
 
 <div>
