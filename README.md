@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67443871/198381011-5ff455f6-9e55-4926-9957-37fc8ba596e7.png" width="130px" />
   <!--TRANSPARENCIA-->
-  <img src="[https://st.depositphotos.com/3265665/4462/i/450/depositphotos_44627471-stock-photo-transparent.jpg](https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png)" width="30px"/>
+  <img src="[https://st.depositphotos.com/3265665/4462/i/450/depositphotos_44627471-stock-photo-transparent.jpg](https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png)" width="40px"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=C8D2DCFF&vCenter=false&multiline=true&width=300&height=100&lines=const+App+%3D+()+%3D%3E+%7B;return+(+Bem+vindo!+)+%7D;export+default+App"
 </div>
 <br>
