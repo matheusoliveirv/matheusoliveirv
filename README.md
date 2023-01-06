@@ -24,5 +24,7 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+<!--
 <!-- SNAKE COMMIT -->
 ![Snake animation](https://github.com/matheusoliveirv/matheusoliveirv/blob/output/github-contribution-grid-snake.svg)
+-->
